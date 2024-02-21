@@ -7,7 +7,7 @@
 .menu-bar__item > ul{
     display: flex;
     text-decoration: none;
-    list-style-type: none;
+    list-style-type: none; 
 }
 
 .menu-bar__item > ul > li{
